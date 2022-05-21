@@ -1,0 +1,2 @@
+var nomeDaUsuaria = prompt ("Me chamo Karolina, qual seu nome?");
+prompt("Seja bem vinda ao meu primeiro programa, " + nomeDaUsuaria + ".");
